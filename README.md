@@ -2,7 +2,7 @@
 
 Cloud RAT is a Windows based R.A.T (Remote Administration Tool) written in the JavaScript programming language.
 
-The Cloud RAT app uses electron framework to use JavaScript in a desktop application, React JS for the frontend library, and Ant Design for the React UI library.
+The Cloud RAT app uses the [electron framework](https://www.electronjs.org/), [React JS](https://reactjs.org/), and [Ant Design](https://ant.design/).
 
 # Current Features
 
