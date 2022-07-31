@@ -6,7 +6,7 @@ const socket = io.connect('http://localhost:3001', {
   reconnectionAttempts: 99999,
 });
 const os = require('os');
-const tag = 'TESTING';
+const tag = 'DEFAULT';
 
 const clientData = {
   tag: tag,
