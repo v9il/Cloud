@@ -24,7 +24,7 @@ export function ClientsTable() {
         setSelectedClient={setSelectedClient}
       />
       <Table
-        onRow={(record, rowIndex) => {
+        onRow={(record) => {
           return {
             onDoubleClick: () => {
               setSelectedClient(record);
